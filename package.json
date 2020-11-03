@@ -1,16 +1,14 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Helps you find the characters you are looking for",
   "main": "server.js",
-  "scripts": {
-    "test":"jest",
-    "start":"node server.js"
-  },
-  
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+     "express": "^4.16.3",
+     "author": "Rhiley Southam",
+  "license": "ISC"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
